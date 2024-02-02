@@ -10,19 +10,7 @@
 
 #### 💻 &nbsp; About Me :
 I am a Full Stack Developer | Node js , Next js , React & MongoDB <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
--  Contact me at sahalvavoor313@gmail.co
 
-#### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
-
-<a href="https://github.com/sahhhall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahhhall&theme=light&count_private=true&layout=compact" width="205" alt="Sahal's most used languages" />
-</a>
-<a href="https://github.com/sahhhall">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahhhall&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sahals's github stats"/>
-</a>
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
